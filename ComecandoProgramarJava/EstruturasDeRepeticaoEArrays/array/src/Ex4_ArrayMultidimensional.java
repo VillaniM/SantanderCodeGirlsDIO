@@ -22,7 +22,7 @@ public class Ex4_ArrayMultidimensional {
 			}
 			System.out.println();
 		}
-
+		
 	}
 
 }
